@@ -1,0 +1,3 @@
+stress: info: [2676] dispatching hogs: 4 cpu, 0 io, 0 vm, 0 hdd
+stress: info: [2676] successful run completed in 30s
+
